@@ -1,0 +1,5 @@
+Linea:Linea1
+Turno:Turno1
+Total de productos:4
+Veces que se detuvo la linea:4
+El dia que mas se detuvo fue:2017-11-15
